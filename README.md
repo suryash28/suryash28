@@ -65,58 +65,71 @@ Deployment
 Impact
 
 ---
+---
 
-# 🚀 Featured Projects
+<h1>🚀 Featured Projects</h1>
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 💰 Dynamic Competitive Pricing System
+<h2>💰 Dynamic Competitive Pricing System</h2>
 
-**Python · Machine Learning · Pandas · NumPy · Scikit-learn · FastAPI · Streamlit**
+<p><b>Python · Machine Learning · Pandas · NumPy · Scikit-learn · FastAPI · Streamlit</b></p>
 
-End-to-end dynamic pricing system that uses historical retail
-sales, competitor pricing, demand patterns and price elasticity
-to recommend optimized product prices.
+<p>
+End-to-end dynamic pricing system that uses historical retail sales,
+competitor pricing, demand patterns and price elasticity to recommend
+optimized product prices.
+</p>
 
-### 🔑 Highlights
+<h3>🔑 Highlights</h3>
 
-- 📊 Historical sales & competitor-price analysis
-- 🧠 ML-based demand prediction
-- 📈 Price elasticity estimation
-- 💰 Profit-based price optimization
-- ⚙️ Business constraints & margin control
-- 🚀 FastAPI REST API
-- 📊 Streamlit dashboard
+<ul>
+<li>📊 Historical sales & competitor-price analysis</li>
+<li>🧠 ML-based demand prediction</li>
+<li>📈 Price elasticity estimation</li>
+<li>💰 Profit-based price optimization</li>
+<li>⚙️ Business constraints & margin control</li>
+<li>🚀 FastAPI REST API</li>
+<li>📊 Streamlit dashboard</li>
+</ul>
 
+<p>
 <a href="https://github.com/suryash28/Dynamic-Pricing-Modular">
 <img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🤖 AI Chat Bot
+<h2>🤖 AI Chat Bot</h2>
 
-**Python · Streamlit · Database Integration**
+<p><b>Python · Streamlit · Database</b></p>
 
-Interactive chatbot application with a Python backend,
-database integration and Streamlit-based frontend.
+<p>
+Interactive chatbot application built with a Python backend,
+database integration and a Streamlit-based interface.
+</p>
 
-### 🔑 Highlights
+<h3>🔑 Highlights</h3>
 
-- 🤖 Conversational chatbot
-- ⚙️ Python backend
-- 🗄️ Database integration
-- 🖥️ Streamlit frontend
-- 🔄 Backend–frontend workflow
+<ul>
+<li>🤖 Conversational chatbot</li>
+<li>⚙️ Python backend</li>
+<li>🗄️ Database integration</li>
+<li>🖥️ Streamlit interface</li>
+<li>🔄 Backend–frontend workflow</li>
+</ul>
 
+<p>
 <a href="https://github.com/suryash28/Chat-Bot">
 <img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
+</p>
 
 </td>
 
@@ -124,37 +137,49 @@ database integration and Streamlit-based frontend.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## ₿ Bitcoin Data Analysis
+<h2>₿ Bitcoin Data Analysis</h2>
 
-**Python · Data Analysis · Data Visualization**
+<p><b>Python · Data Analysis · Data Visualization</b></p>
 
-Data analytics project focused on exploring and analyzing
-Bitcoin market data to identify trends and patterns.
+<p>
+Data analytics project focused on exploring Bitcoin market data
+to identify trends, patterns and data-driven insights.
+</p>
 
-### 🔑 Highlights
+<h3>🔑 Highlights</h3>
 
-- 📊 Bitcoin market data analysis
-- 📈 Trend exploration
-- 🔎 Data-driven insights
-- 🐍 Python-based analysis
+<ul>
+<li>📊 Bitcoin market data analysis</li>
+<li>📈 Trend exploration</li>
+<li>🔎 Data-driven insights</li>
+<li>🐍 Python-based analysis</li>
+</ul>
 
+<p>
 <a href="https://github.com/suryash28/DATA-ANALYTICS-PROJECTS/tree/main/BITCOIN">
 <img src="https://img.shields.io/badge/🔗%20View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 📌 More Projects Coming Soon
+<h2>🚀 More Projects Coming Soon</h2>
 
+<p>
 Currently building and improving projects across:
+</p>
 
-**Data Science · Machine Learning · Generative AI · Agentic AI**
+<p>
+<b>Data Science · Machine Learning · Generative AI · Agentic AI</b>
+</p>
 
-🚀 New production-oriented projects will be added here as they are completed.
+<p>
+New production-oriented projects will be added as they are completed.
+</p>
 
 </td>
 
@@ -162,32 +187,34 @@ Currently building and improving projects across:
 </table>
 
 ---
+---
 
 # 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### Data Science & Analytics
+### 📊 Data Science & Analytics
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square)
 
-### Machine Learning & Deep Learning
+### 🤖 Machine Learning & Deep Learning
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### Generative AI & Agentic AI
+### 🧠 Generative AI & Agentic AI
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
@@ -195,7 +222,7 @@ Currently building and improving projects across:
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B00?style=flat-square)
 ![LLM](https://img.shields.io/badge/LLM-0088CC?style=flat-square)
 
-### Backend & Deployment
+### ⚙️ Backend & Deployment
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -204,10 +231,11 @@ Currently building and improving projects across:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### Databases
+### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
