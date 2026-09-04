@@ -22,10 +22,6 @@
 ---
 
 
-Building intelligent systems from data to deployment.
-
-📊 Data Science • 🤖 Machine Learning • 🧠 Generative AI • 🔗 Agentic AI • 📈 Data Analytics
-
 ---
 
 ## 🧠 Who I Am
@@ -65,7 +61,7 @@ Deployment
 Impact
 
 ---
----
+
 
 <h1>🚀 Featured Projects</h1>
 
@@ -236,9 +232,6 @@ New production-oriented projects will be added as they are completed.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
 # 📚 Current Learning Path
 
 ```text
@@ -260,17 +253,8 @@ Agentic AI
       ↓
 Production AI Systems
 
----
 
-# 📊 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=suryash28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryash28&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
 
 <br>
 
