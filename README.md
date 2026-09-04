@@ -1,5 +1,12 @@
 <div align="center">
 
+<img src="./github-banner.png" width="100%" alt="Suryash Nigam - Data Science & AI"/>
+
+</div>
+
+<br>
+
+<div align="center">
 # 👋 Hi, I'm Suryash Nigam
 
 <p align="center">
